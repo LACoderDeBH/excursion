@@ -1,0 +1,44 @@
+body {
+  font-family: Verdana;
+    text-align: center;
+    background-color: black;
+ }
+ 
+ h1 {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+h2 {
+font-size: 42px;
+color: white;
+font-weight: 300;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+
+h4 {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
+
+.icon {
+    padding-top: 20px;
+}
